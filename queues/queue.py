@@ -1,3 +1,5 @@
+from collections import deque
+
 stock_queue=[]
 stock_queue.insert(0,123)
 stock_queue.insert(0,121)
